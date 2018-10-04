@@ -1,0 +1,2 @@
+times :: Integer -> Bool -> Integer ;
+times m n = if m == 0 then m else n;
