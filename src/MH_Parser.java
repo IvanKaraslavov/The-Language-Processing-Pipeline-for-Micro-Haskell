@@ -119,7 +119,6 @@ class MH_Parser extends GenParser implements PARSER {
     }
 }
 
-
 // For testing
 
 class MH_ParserDemo {
